@@ -4,6 +4,6 @@
 ##### <etiketismi> içerik </etiketismi>
 
 #### Etiketler ve yazım biçimi
-##### <h1> : Başlık.    </h1>
+#####<h1> : Başlık.    </h1>
 ##### <p>  : Paragraf.  </p> 
 ##### <br> : Boşluk     none
