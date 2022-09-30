@@ -11,3 +11,5 @@ HTML elementi başlangıç ve bitiş etiketleri arasında içeriğin yazılması
 HTML yazım formatı;
 
 ![image](https://user-images.githubusercontent.com/99764271/193239707-f7794c8d-5082-49f1-8ba4-12ee7091be3e.png)
+
+Beyaz kısım web tarayıcısında görünen kısmı oluşturur.
