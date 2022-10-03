@@ -4,7 +4,7 @@ HTML elementi başlangıç ve bitiş etiketleri arasında içeriğin yazılması
 ##### < etiketismi > içerik < /etiketismi >
 
 #### Etiketler ve yazım biçimi
-##### < h1 > : Başlık.    < /h1 > [sdasad]
+##### < h1 > : Başlık.    < /h1 > [//]: # (This syntax works like a comment, and won't appear in any output.)
 ##### < p >  : Paragraf.  < /p > 
 ##### < br > : Boşluk     none
 
